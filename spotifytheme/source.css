@@ -5,7 +5,7 @@
   --bar-color: #181818;
   --bar-border-color: #282828;
   --bar-size: 90px;
-  --accent-rgb: 223,120,239;
+  --accent-rgb: 223,120,227;
   --accent-hover: 223,120,227;
   --accent-text-color: #fff;
   --alt-accent: #5680d4;
@@ -27,10 +27,10 @@
   --menu-select-color: rgba(255,255,255,0.3);
   --menu-border-color: rgba(255,255,255,0.1);
   --menu-text-color: #b2b2b2;
-  --input-color: #e0e0e0;
+  --input-color: #151515;
   --input-text-color: #333;
   --input-placeholder-color: #444;
-  --input-radius: 22px;
+  --input-radius: 5px;
   --select-input-color: #363636;
   --button-background: rgba(0,0,0,0.7);
   --button-border: 1px solid #b2b2b2;
@@ -1047,7 +1047,7 @@ body,
 .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h {
   max-height: 45vh;
   background-color: var(--input-color);
-  border-radius: 22px;
+  border-radius: 8px;
   --scrollbar-thumb: rgba(0,0,0,0.5);
   --scrollbar-thumb-hover: rgba(0,0,0,0.6);
   --scrollbar-thumb-active: rgba(0,0,0,0.7);
